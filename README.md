@@ -1,6 +1,6 @@
 [![tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FGrantBGreat%2Fhello-world)](https://twitter.com/intent/tweet?text=Learn%20to%20write%20Hello%20World%20in%20any%20language%21&url=https%3A%2F%2Fgithub.com%2FGrantBGreat%2Fhello-world)
 # Hello World
-Hello World printed in 48 unique languages!
+Hello World printed in 49 unique languages!
 
 # Contrubutions
 I am more then happy to see any contributions to this project and as a matter a fact, I really appreciate it! Just go ahead and fork the project and send over pull requests when you're complete!
@@ -52,48 +52,41 @@ I am more then happy to see any contributions to this project and as a matter a 
 ### J:
 * [Java](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.java)
 * [Julia](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.jl)
-* [JavaScript](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.js)
 
 ### K:
-* [Koltin](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.kt)
+* [Kotlin](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.kt)
 
 ### L:
-* [L33T](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.leet)
-* [LOGO](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.lgo)
-* [LOLCODE](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.lol)
+* [Lisp](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.lisp)
 * [Lua](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.lua)
 
 ### M:
-* [Malbogle](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.mal)
-* [Matlab](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World_matlab.m)
+* [MATLAB](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.m)
+
+### N:
+* [Nim](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.nim)
 
 ### O:
-* [Object C](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World_obj-c.m)
-* [Object Oriented Thue (OOT)](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.oot)
+* [Objective-C](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.m)
 
 ### P:
-* [Pascal](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.pas)
-* [Perl](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.pl)
-* [PHP](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.php)
-* [Pit](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.pit)
-* [Processing](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.pde)
+* [Python](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.py)
 
 ### R:
+* [R](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.r)
 * [Ruby](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.rb)
 * [Rust](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.rs)
 
 ### S:
-* [Scheme](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.scm)
+* [Scala](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.scala)
 * [Shell](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.sh)
 * [Swift](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.swift)
 
 ### T:
-* [Thue](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.t)
-* [TrumpScript](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.tr)
 * [TypeScript](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.ts)
 
 ### V:
 * [Visual Basic](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.vb)
 
-### W:
-* [WhiteSpace](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.ws)
+### Z:
+* [Zig](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.zig)
